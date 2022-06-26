@@ -1,6 +1,6 @@
 {
   "private": true,
-  "license": "MIT",
+  "license": "AAL",
   "scripts": {
     "build": "next build",
     "dev": "next dev",
